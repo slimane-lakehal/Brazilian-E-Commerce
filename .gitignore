@@ -1,5 +1,5 @@
 # Ignore data files (large CSV files)
-data/*.csv
+data/
 
 # Python virtual environment
 .venv/
