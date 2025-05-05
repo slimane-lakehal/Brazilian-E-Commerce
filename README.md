@@ -47,7 +47,7 @@ brazilian-ecommerce/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brazilian-ecommerce.git
+git clone https://github.com/slimane-lakehal/brazilian-ecommerce.git
 cd brazilian-ecommerce
 ```
 
